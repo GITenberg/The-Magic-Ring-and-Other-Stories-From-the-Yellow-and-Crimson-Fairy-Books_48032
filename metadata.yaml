@@ -1,0 +1,38 @@
+_repo: The-Magic-Ring-and-Other-Stories-From-the-Yellow-and-Crimson-Fairy-Books_48032
+contributor:
+  creator:
+    editor:
+      agent_name: Lang, Andrew
+      alias: Lang, Walter Andrew
+      birthdate: 1844
+      deathdate: 1912
+      gutenberg_agent_id: '79'
+      url: http://www.gutenberg.org/2009/agents/79
+      wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
+  illustrator:
+    agent_name: Ford, Henry Jones
+    alias: Ford, Henry J. (Henry Jones)
+    birthdate: 1851
+    deathdate: 1925
+    gutenberg_agent_id: '5836'
+    url: http://www.gutenberg.org/2009/agents/5836
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Jones_Ford
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2015-01-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '48032'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: 'The Magic Ring and Other Stories
+
+  From the Yellow and Crimson Fairy Books'
+url: http://www.gutenberg.org/ebooks/48032
